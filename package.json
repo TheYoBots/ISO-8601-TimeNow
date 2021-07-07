@@ -1,0 +1,23 @@
+{
+  "name": "iso-8601-timenow",
+  "version": "1.0.0",
+  "description": "Get the current Date and Time in ISO 8601 format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheYoBots/ISO-8601-TimeNow.git"
+  },
+  "author": "Yohaan Seth Nathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheYoBots/ISO-8601-TimeNow/issues"
+  },
+  "homepage": "https://github.com/TheYoBots/ISO-8601-TimeNow#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1"
+  }
+}
